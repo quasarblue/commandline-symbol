@@ -25,7 +25,7 @@ public static void main(String[] args) throws Exception {
   private static void accountPretty(String rawAddress) throws InterruptedException, ExecutionException {
           // replace with node endpoint
         try (final RepositoryFactory repositoryFactory = new RepositoryFactoryVertxImpl(
-            "http://ngl-dual-101.testnet.symboldev.network:3000")) {
+            "https://cola-potatochips.net:3001")) {
             final AccountRepository accountRepository = repositoryFactory
                 .createAccountRepository();
 
