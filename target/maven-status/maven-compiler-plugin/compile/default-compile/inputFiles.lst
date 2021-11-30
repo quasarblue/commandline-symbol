@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-/home/user/NEM/src/commandline-symbol/src/main/java/ninja/symbolnonde/account/AccountTool.java
-/home/user/NEM/src/commandline-symbol/src/main/java/ninja/symbolnonde/account/App.java
-=======
-/home/x117fab/symbol/java/commandline-symbol/src/main/java/ninja/symbolnode/account/AccountTool.java
-/home/x117fab/symbol/java/commandline-symbol/src/main/java/ninja/symbolnode/account/App.java
->>>>>>> 147785452ed191e1e5e1d7e2962eeb17b74d3377
+/home/user/NEM/src/commandline-symbol/src/main/java/ninja/symbolnode/account/AccountTool.java
+/home/user/NEM/src/commandline-symbol/src/main/java/ninja/symbolnode/account/App.java
