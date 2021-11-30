@@ -1,4 +1,4 @@
-package ninja.symbolnonde.account;
+package ninja.symbolnode.account;
 
 /**
  * Hello world!
